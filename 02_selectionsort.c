@@ -1,6 +1,6 @@
 	//NAME        :MONIYA MOHAN
 	//ROLL NO     :35
-	//PROGRAM NO  :1
+	//PROGRAM NO  :2
 	//PROGRAM NAME:SELECTION SORT
 
 	#include <stdio.h>
