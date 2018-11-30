@@ -1,3 +1,7 @@
+//NAME        :MONIYA MOHAN
+//ROLL NO     :35
+//PROGRAM NO  :19
+//PROGRAM NAME:STACK USING LL
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -99,3 +103,70 @@ int main() {
 	
 	return (0);
 }
+
+OUTPUT :
+
+        LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 1
+
+Enter new data : 1
+
+        LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 1
+
+Enter new data : 2
+
+        LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 1
+
+Enter new data : 3
+
+        LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 1
+
+Enter new data : 5
+
+        LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 2
+
+
+        LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 3
+
+
+Linked List
+TOP->3
+2
+1
+
+
+        LINKED LIST
+1. Push
+2. Pop
+3. Print
+4. Exit
+Enter your choice : 4
