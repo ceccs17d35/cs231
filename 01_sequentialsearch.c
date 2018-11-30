@@ -1,7 +1,7 @@
-	//NAME        :MONIYA MOHAN
-	//ROLL NO     :35
-	//PROGRAM NO  :1
-	//PROGRAM NAME:SEQUENTIAL SEARCH
+//NAME        :MONIYA MOHAN
+//ROLL NO     :35
+//PROGRAM NO  :
+//PROGRAM NAME:
 
 	#include <stdio.h>
 
