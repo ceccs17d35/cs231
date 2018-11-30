@@ -1,4 +1,9 @@
-#include<stdio.h>
+          //NAME        :MONIYA MOHAN
+          //ROLL NO     :35
+          //PROGRAM NO  :32
+          //PROGRAM NAME:BINARY TREE OPERATIONS USING LL
+
+          #include<stdio.h>
           #include<stdlib.h>
           struct tree
           {
@@ -224,3 +229,69 @@
              printf("\n Element %d does not exist in the binary tree",no);
            return(root);
           }
+
+          OUTPUT :
+
+                   1. Insert in Binary Tree
+                   2. Delete from Binary Tree
+                   3. Inorder traversal of Binary tree
+                   4. Postorder traversal of Binary tree
+                   5. Preorder traversal of Binary tree
+                   6. Search and replace
+                   7. Exit
+                   Enter choice : 1
+
+           Enter new element: 5
+
+           root is 5
+           Inorder traversal of binary tree is :  5
+                   1. Insert in Binary Tree
+                   2. Delete from Binary Tree
+                   3. Inorder traversal of Binary tree
+                   4. Postorder traversal of Binary tree
+                   5. Preorder traversal of Binary tree
+                   6. Search and replace
+                   7. Exit
+                   Enter choice : 1
+
+           Enter new element: 4
+
+           root is 5
+           Inorder traversal of binary tree is :  4 5
+                   1. Insert in Binary Tree
+                   2. Delete from Binary Tree
+                   3. Inorder traversal of Binary tree
+                   4. Postorder traversal of Binary tree
+                   5. Preorder traversal of Binary tree
+                   6. Search and replace
+                   7. Exit
+                   Enter choice : 1
+
+           Enter new element: 3
+
+           root is 5
+           Inorder traversal of binary tree is :  3 4 5
+
+                   1. Insert in Binary Tree
+                   2. Delete from Binary Tree
+                   3. Inorder traversal of Binary tree
+                   4. Postorder traversal of Binary tree
+                   5. Preorder traversal of Binary tree
+                   6. Search and replace
+                   7. Exit
+                   Enter choice : 1
+
+           Enter new element: 2
+
+           root is 5
+           Inorder traversal of binary tree is :  2 3 4 5
+                   1. Insert in Binary Tree
+                   2. Delete from Binary Tree
+                   3. Inorder traversal of Binary tree
+                   4. Postorder traversal of Binary tree
+                   5. Preorder traversal of Binary tree
+                   6. Search and replace
+                   7. Exit
+                   Enter choice : 7
+
+           End of program
