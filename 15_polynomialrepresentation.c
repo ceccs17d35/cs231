@@ -1,3 +1,7 @@
+//NAME        :MONIYA MOHAN
+//ROLL NO     :35
+//PROGRAM NO  :15
+//PROGRAM NAME:REPRESENTATION OF POLYNOMIAL USING LL
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
@@ -86,3 +90,29 @@ int main() {
 	deleteAll();
 	return (0);
 }
+
+OUTPUT :
+
+Enter coefficient : 5
+Enter exponent : 2
+
+1. Add more terms
+2. Print and exit
+Enter your choice : 1
+
+Enter coefficient : 3
+Enter exponent : 1
+
+1. Add more terms
+2. Print and exit
+Enter your choice : 1
+
+Enter coefficient : 7
+Enter exponent : 0
+
+1. Add more terms
+2. Print and exit
+Enter your choice : 2
+
+
+F(p) = 5p^2 + 3p^1 + 7
