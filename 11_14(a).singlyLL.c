@@ -1,7 +1,7 @@
 	//NAME        :MONIYA MOHAN
 	//ROLL NO     :35
-	//PROGRAM NO  :1
-	//PROGRAM NAME:SINGLY LL
+	//PROGRAM NO  :11_14(a)
+	//PROGRAM NAME:SINGLY LL(All operations)
 
 	#include <stdio.h>
 	#include <stdlib.h>
@@ -212,78 +212,95 @@
 
 	OUTPUT :
 
-	      LINKED LIST
-	1. Insert at Front
-	2. Insert before
-	3. Insert after
-	4. Insert at End
-	5. Print Linked List
-	6. Delete first node
-	7. Delete last node
-	8. Delete node
-	9. Delete all
-	0. Exit
-	Enter your choice : 1
+	  LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 1
 
-	Enter new data : 21
+Enter new data : 12
 
-		LINKED LIST
-	1. Insert at Front
-	2. Insert before
-	3. Insert after
-	4. Insert at End
-	5. Print Linked List
-	6. Delete first node
-	7. Delete last node
-	8. Delete node
-	9. Delete all
-	0. Exit
-	Enter your choice : 1
+        LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 1
 
-	Enter new data : 32
+Enter new data : 16
 
-		LINKED LIST
-	1. Insert at Front
-	2. Insert before
-	3. Insert after
-	4. Insert at End
-	5. Print Linked List
-	6. Delete first node
-	7. Delete last node
-	8. Delete node
-	9. Delete all
-	0. Exit
-	Enter your choice : 2
+        LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 1
 
-	Enter data before which new node is to be created : 32
-	Enter new data : 16
+Enter new data : 9
 
-		LINKED LIST
-	1. Insert at Front
-	2. Insert before
-	3. Insert after
-	4. Insert at End
-	5. Print Linked List
-	6. Delete first node
-	7. Delete last node
-	8. Delete node
-	9. Delete all
-	0. Exit
-	Enter your choice : 5
+        LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 2
+
+Enter data before which new node is to be created : 9
+Enter new data : 23
+
+        LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 5
 
 
-	Linked List
-	HEADER->16->32->21->NULL
+Linked List
+HEADER->23->9->16->12->NULL
 
-		LINKED LIST
-	1. Insert at Front
-	2. Insert before
-	3. Insert after
-	4. Insert at End
-	5. Print Linked List
-	6. Delete first node
-	7. Delete last node
-	8. Delete node
-	9. Delete all
-	0. Exit
-	Enter your choice : 0
+        LINKED LIST
+1. Insert at Front
+2. Insert before
+3. Insert after
+4. Insert at End
+5. Print Linked List
+6. Delete first node
+7. Delete last node
+8. Delete node
+9. Delete all
+0. Exit
+Enter your choice : 0
+	      
+	
