@@ -1,3 +1,8 @@
+//NAME        :MONIYA MOHAN
+//ROLL NO     :35
+//PROGRAM NO  :8
+//PROGRAM NAME:QUICKSORT:RECURSIVE
+
 #include <stdio.h>
 
 void swap(int *a, int *b) {
@@ -44,3 +49,18 @@ int main() {
 	quickSort(array, 0, size-1);
 	printArray(array, size);
 }
+
+OUTPUT :
+
+Enter array elements
+12
+21
+45
+9
+3
+Sorted Array
+3
+9
+12
+21
+45
