@@ -1,3 +1,7 @@
+//NAME        :MONIYA MOHAN
+//ROLL NO     :35
+//PROGRAM NO  :17
+//PROGRAM NAME:POLYNOMIAL MULTIPLICATION
 #include <stdio.h>
 #include <stdlib.h>
 struct node {
@@ -137,7 +141,7 @@ int main() {
     printf("\nMultiplying polynomials\n");
     printPolynomial(polynomial1, 'P');
     printPolynomial(polynomial2, 'Q');
-    printf("Sum\n");
+    printf("Product\n");
     multiplyPolynomial(polynomial1, polynomial2, polynomial3);
     printPolynomial(polynomial3, 'R');
 
@@ -146,3 +150,41 @@ int main() {
     deleteAll(polynomial3);
     return (0);
 }
+
+OUTPUT :
+
+        Polynomial 1
+Enter coefficient : 6
+Enter exponent : 2
+
+1. Add more terms
+2. Continue
+Enter your choice : 1
+
+Enter coefficient : 3
+Enter exponent : 1
+
+1. Add more terms
+2. Continue
+Enter your choice : 2
+
+        Polynomial 2
+Enter coefficient : 9
+Enter exponent : 2
+
+1. Add more terms
+2. Continue
+Enter your choice : 1
+
+Enter coefficient : 4
+Enter exponent : 1
+
+1. Add more terms
+2. Continue
+Enter your choice : 2
+
+
+Multiplying polynomials
+P(x) = 6x^2 + 3x^1
+Q(x) = 9x^2 + 4x^1
+R(x) = 54x^4 + 51x^3 + 12x^2
