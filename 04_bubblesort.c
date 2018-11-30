@@ -1,3 +1,7 @@
+//NAME        :MONIYA MOHAN
+//ROLL NO     :35
+//PROGRAM NO  :4
+//PROGRAM NAME:BUBBLE SORT
 #include <stdio.h>
 
 int bubbleSort(int array[], int size) {
@@ -30,3 +34,14 @@ int main() {
 		printf("%d\n", array[i]);
 	}
 }
+
+OUTPUT :
+
+Enter number of elements in the array : 5
+Enter the array
+45
+12
+6
+31
+19
+Sorted array
